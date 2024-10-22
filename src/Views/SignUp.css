@@ -1,0 +1,24 @@
+
+.containers{
+    background-color: #32a897;
+    width: 50%;
+    margin-right: 600px;
+    height: 1000px;
+}
+
+.childrens{
+    margin-right: 200px;
+}
+.images{
+    margin-left: 699px;
+    margin-top: -455px;
+    min-width: 570px;
+    height: 700px;
+}
+
+.input-container{
+    padding-left: 110px;
+    padding-top: 100px;
+    margin-top: -30px;
+}
+
